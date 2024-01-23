@@ -1,4 +1,4 @@
-### Olá, meu nome é Luan Pablo e sou aprendiz em desenvolvimento back-end 🚀
+### Olá, meu nome é Luan Amaral e sou estudante em desenvolvimento back-end 🚀
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanpabloj&layout=compact&theme=dark)
